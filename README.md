@@ -1,2 +1,2 @@
-﻿# langtonsAnt.js
-# A project to familiarise myself with javascript and graphics in javascript
+# langtonsAnt.js
+A project to familiarise myself with javascript and graphics in javascript
